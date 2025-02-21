@@ -7,3 +7,5 @@
 ## Checking the repository status
 
 WTF
+
+Changes in the new branch
