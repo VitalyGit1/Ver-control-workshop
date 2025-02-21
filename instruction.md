@@ -5,3 +5,5 @@
 ## What is Git?
 
 ## Checking the repository status
+
+WTF
